@@ -1,0 +1,33 @@
+{
+  "stickmanSize": "normal",
+  "stickmanPos": {
+    "x": 50.0
+  },
+  "cloudVelocity": 3.2,
+  "levelDimensions": {
+    "width": 700.0,
+    "height": 700.0,
+    "floorHeight": 350.0
+  },
+  "platforms": [
+  ],
+  "mushrooms": [
+    {
+      "x": 130.0,
+      "y": 330.0
+    }
+  ],
+  "enemies": [
+    {
+      "x": 180.0,
+      "y": 330.0,
+      "path": "slimeBa.png",
+      "startLeft": false,
+      "strategy": "dumb"
+    }
+  ],
+  "flag": {
+    "x": 600.0,
+    "y": 310.0
+  }
+}
